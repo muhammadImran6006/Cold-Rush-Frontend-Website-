@@ -28,7 +28,8 @@ ColdRush is a visually engaging and responsive **user interface (UI)** prototype
 ## 📸 Preview
 
 ![ColdRush UI Preview](https://your-screenshot-link.com)  
-*Add a screenshot or a demo GIF of your UI here*
+![screencapture-127-0-0-1-5501-index-html-2025-05-21-00_06_17](https://github.com/user-attachments/assets/7ed1c475-bc80-44b8-8038-0c45968ac666)
+
 
 ---
 
