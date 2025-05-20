@@ -27,7 +27,7 @@ ColdRush is a visually engaging and responsive **user interface (UI)** prototype
 
 ## 📸 Preview
 
-![ColdRush UI Preview](https://muhammadimran6006.github.io/Cold-Rush-Frontend-Website-/)  
+🔗 **Live Demo:** [Visit ColdRush UI](https://muhammadimran6006.github.io/Cold-Rush-Frontend-Website-/)
 
 ![screencapture-127-0-0-1-5501-index-html-2025-05-21-00_06_17](https://github.com/user-attachments/assets/cfd85ed6-1c9d-46c3-ab11-d3399721c24f)
 
