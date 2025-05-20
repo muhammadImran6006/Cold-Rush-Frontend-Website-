@@ -27,20 +27,22 @@ ColdRush is a visually engaging and responsive **user interface (UI)** prototype
 
 ## 📸 Preview
 
-![ColdRush UI Preview]( https://muhammadimran6006.github.io/Cold-Rush-Frontend-Website-/)  
+![ColdRush UI Preview](https://muhammadimran6006.github.io/Cold-Rush-Frontend-Website-/)  
 
+![screencapture-127-0-0-1-5501-index-html-2025-05-21-00_06_17](https://github.com/user-attachments/assets/cfd85ed6-1c9d-46c3-ab11-d3399721c24f)
 
 
 ---
 
 ## 📂 Project Structure
-/coldrush-ui
+
+coldrush-ui/
 │
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── images/
+├── index.html         # Main HTML file
+├── style.css          # Styling (CSS) file
+├── script.js          # JavaScript functionality
+└── assets/            # Assets folder
+    └── images/        # Image files used in the UI
 
 
 ---
